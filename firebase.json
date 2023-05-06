@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/home/spemme/mine/my_project/psriramk.github.io",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
